@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631401613662",
+    "firebase_url": "https://fsafe-b07dc.firebaseio.com",
+    "project_id": "fsafe-b07dc",
+    "storage_bucket": "fsafe-b07dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631401613662:android:0cb51bed49737e9b",
+        "android_client_info": {
+          "package_name": "in.prasilabs.fcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631401613662-5hobevfkot0c9rb3clnfek5c2eo9r9fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPz6YLA8qlZFhHGKuSxx1qjFVzgOE5Od0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+
+psquid:UselessImportCheck"BRemove this unused import 'android.support.v4.app.ActivityCompat'.(Äüşÿÿÿÿ8‚˜Şå+
+osquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(®Õ¨Ëşÿÿÿÿ8³æğâ+
+ksquid:UselessImportCheck"CRemove this unused import 'in.prasilabs.fcare.utils.LocationUtils'.(ç§£\8‚˜Şå+
+lsquid:UselessImportCheck">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ8‚˜Şå+

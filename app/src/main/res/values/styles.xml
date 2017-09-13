@@ -1,0 +1,87 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="text_title_white" parent="text_title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_medium_white" parent="text_medium_black">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_medium_black" parent="text_title">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_medium_grey" parent="text_title">
+        <item name="android:textColor">@color/textGrey</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_title_black">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="text_title">
+        <item name="android:textColor">@color/accent</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="text_small_grey">
+        <item name="android:textColor">@color/textGrey</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_x_small_grey">
+        <item name="android:textColor">@color/textGrey</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+
+
+    <style name="text_small_black">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_x_small_black">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+
+    <style name="custom_round_button_blue" parent="android:Widget.Button">
+        <item name="android:background">@drawable/rounder_button_blue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginStart">44dp</item>
+        <item name="android:layout_marginEnd">44dp</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+
+    <style name="custom_round_button_small_blue">
+        <item name="android:background">@drawable/rounder_button_blue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginStart">44dp</item>
+        <item name="android:layout_marginEnd">44dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+</resources>

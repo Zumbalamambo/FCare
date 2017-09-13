@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="in.prasilabs.fcare.modules.permissionCheck.PermissionCheckActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="32dp"
+        android:gravity="center">
+
+        <in.prasilabs.fcare.base.MediumTextView
+            style="@style/text_medium_grey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We are special..  Please allow us to access the services to serve you better."/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:gravity="center"
+        android:background="@color/accent">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <in.prasilabs.fcare.base.MediumTextView
+            android:id="@+id/next_btn"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="8dp"
+            android:gravity="center"
+            android:layout_marginEnd="8dp"
+            android:drawableEnd="@drawable/ic_chevron_right_white_24dp"
+            android:text="NEXT"/>
+
+    </LinearLayout>
+
+</FrameLayout>

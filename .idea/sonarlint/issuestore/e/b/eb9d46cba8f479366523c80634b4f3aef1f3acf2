@@ -1,0 +1,6 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÄÿÁîùÿÿÿÿ
+ssquid:UselessImportCheck"JRemove this unused import 'com.prasilabs.droidwizardlib.debug.ConsoleLog'.(šï‡“8º¢ã¹å+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†ÕĞ«8Ì®ÿå+
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ì®ÿå+
+wsquid:UselessImportCheck"IRemove this unused import 'com.prasilabs.pojos.responsePojos.UserDataVO'.(˜å’üıÿÿÿÿ8Ì®ÿå+

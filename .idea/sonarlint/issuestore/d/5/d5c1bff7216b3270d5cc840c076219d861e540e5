@@ -1,0 +1,9 @@
+
+Ksquid:S00108")Either remove or fill this block of code.(Øóˆûÿÿÿÿ8Ø–¥şæ+
+_squid:UnusedPrivateMethod"0Remove this unused private "stopService" method.(¼¾ªøÿÿÿÿ8Ø–¥şæ+
+Psquid:S1066"/Merge this if statement with the enclosing one.(¡¨´üÿÿÿÿ8Ø–¥şæ+
+ysquid:UselessImportCheck"PRemove this unused import 'in.prasilabs.fcare.services.battery.FBatteryMonitor'.(î×¼î8Ø–¥şæ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(¯‡…±8Ø–¥şæ+
+Ksquid:S1066"/Merge this if statement with the enclosing one.(ŠÃâú8Ø–¥şæ+
+Fsquid:S00108")Either remove or fill this block of code.(€øş§8Ø–¥şæ+
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(€øş§8Ø–¥şæ+

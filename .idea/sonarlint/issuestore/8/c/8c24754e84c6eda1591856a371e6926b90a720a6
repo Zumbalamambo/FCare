@@ -1,0 +1,7 @@
+
+<squid:S1068"'Remove this unused "TAG" private field.(ê°µÞ
+dsquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(Ÿ…½øÿÿÿÿ
+Isquid:S1066"/Merge this if statement with the enclosing one.(ªã’úùÿÿÿÿ
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "jsonArray".(Í¹‰þ
+|squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "jsonObject".(«›ªîúÿÿÿÿ

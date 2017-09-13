@@ -1,0 +1,18 @@
+
+usquid:UselessImportCheck"GRemove this unused import 'in.prasilabs.fcare.services.api.ApiManager'.(ªËİûùÿÿÿÿ8Ü•¥şæ+
+csquid:UselessImportCheck"5Remove this unused import 'android.location.Address'.(ˆùÄ©úÿÿÿÿ8‰°ÿå+
+qsquid:S2259"PA "NullPointerException" could be thrown; "firebaseStatusData" is nullable here.(è’¶£ûÿÿÿÿ8Ü•¥şæ+
+ssquid:UselessImportCheck"JRemove this unused import 'com.prasilabs.droidwizardlib.debug.ConsoleLog'.(šï‡“8Ü•¥şæ+
+qsquid:S2259"PA "NullPointerException" could be thrown; "firebaseStatusData" is nullable here.(ÁØÅ¡ûÿÿÿÿ8Ü•¥şæ+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø›ÆÉüÿÿÿÿ8Ü•¥şæ+
+Psquid:S1066"/Merge this if statement with the enclosing one.(¯Å±ùÿÿÿÿ8Ü•¥şæ+
+Tsquid:UselessImportCheck"+Remove this unused import 'retrofit2.Call'.(Çö÷›8Ü•¥şæ+
+Xsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Response'.(¾éçï8Ü•¥şæ+
+tsquid:UselessImportCheck"FRemove this unused import 'in.prasilabs.fcare.services.api.FCallBack'.(í‚õÁûÿÿÿÿ8Ü•¥şæ+
+wsquid:UselessImportCheck"IRemove this unused import 'com.prasilabs.pojos.responsePojos.UserDataVO'.(˜å’üıÿÿÿÿ8Ü•¥şæ+
+|squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "locality".(£®şÇ8Ü•¥şæ+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÄÿÁîùÿÿÿÿ
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ü•¥şæ+
+ksquid:S2259"PA "NullPointerException" could be thrown; "firebaseStatusData" is nullable here.(æ¨Â68Ü•¥şæ+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(â—æ€8Ü•¥şæ+
+qsquid:S2259"PA "NullPointerException" could be thrown; "firebaseStatusData" is nullable here.(¼ÿ£ùüÿÿÿÿ8Ü•¥şæ+

@@ -1,0 +1,5 @@
+
+squid:UselessImportCheck"QRemove this unused import 'com.prasilabs.pojos.responsePojos.UserRelationShipVO'.( ªÈÆşÿÿÿÿ8¥öØæ+
+Fsquid:S00108")Either remove or fill this block of code.(™œÚÏ8¥öØæ+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Œ£«ó
+Psquid:S1068"4Remove this unused "careListCallback" private field.(Ä›Ä©8¥öØæ+

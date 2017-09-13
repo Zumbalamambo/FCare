@@ -1,0 +1,6 @@
+
+ssquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8ÿöİå+
+€squid:UselessImportCheck"WRemove this unused import 'com.prasilabs.droidwizardlib.core.viewModels.CoreViewModel'.( Œ™€8“Ëªİå+
+ssquid:UselessImportCheck"ERemove this unused import 'in.prasilabs.fcare.utils.PermissionUtils'.(£´ÛÌúÿÿÿÿ8Çäëİå+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˜ƒÓÎ
+hsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(ªËõÖúÿÿÿÿ

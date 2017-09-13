@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datastore-indexes autoGenerate="true">
+    <datastore-index kind="EUserFeed" ancestor="false" source="manual">
+        <property name="city" direction="asc"/>
+        <property name="created" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="ETripData" ancestor="false" source="manual">
+        <property name="userId" direction="asc"/>
+        <property name="created" direction="desc"/>
+    </datastore-index>
+</datastore-indexes>

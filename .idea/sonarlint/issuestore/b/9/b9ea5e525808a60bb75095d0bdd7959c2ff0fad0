@@ -1,0 +1,4 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÄÿÁîùÿÿÿÿ
+Wsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Callback'.(›¨,8Òôë‡å+
+lsquid:S1192"PDefine a constant instead of duplicating this literal "Unable to login" 4 times.(öÒé8Òôë‡å+

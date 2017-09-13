@@ -1,0 +1,6 @@
+
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8™Šãæ+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…îâ¬
+lsquid:UselessImportCheck"ERemove this unused import 'com.google.appengine.api.datastore.GeoPt'.(ÇïÚğûÿÿÿÿ
+†squid:UselessImportCheck"XRemove this unused import 'com.prasilabs.fcare.backend.dbPojos.UserBatteryStatusEntity'.(õ—°½ÿÿÿÿÿ8™Šãæ+
+ssquid:UselessImportCheck"QRemove this unused import 'com.prasilabs.fcare.backend.services.utils.OauthUtil'.(Ç†µÂ

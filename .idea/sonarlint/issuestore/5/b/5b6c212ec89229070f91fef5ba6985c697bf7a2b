@@ -1,0 +1,4 @@
+
+msquid:UselessImportCheck"ERemove this unused import 'in.prasilabs.fcare.managers.FUserManager'.(îŒÉZ8ßšØæ+
+Psquid:S1068"4Remove this unused "careListCallback" private field.(Ä›Ä©8ßšØæ+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Œ£«ó
